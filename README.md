@@ -61,18 +61,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-tiwary2610&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-tiwary2610&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=Mohit-tiwary2610&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-tiwary2610&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-tiwary2610&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-tiwary2610&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
