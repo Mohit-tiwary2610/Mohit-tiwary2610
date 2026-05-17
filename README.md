@@ -67,13 +67,14 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Mohit-tiwary2610&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Mohit-tiwary2610&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-tiwary2610&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 ---
