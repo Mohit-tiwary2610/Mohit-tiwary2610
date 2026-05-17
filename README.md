@@ -7,9 +7,9 @@
 ---
  
 ### 🚀 About Me
-- 🎓 B.Tech CSE Student at **SMIT, Sikkim** — Graduating 2028 | GPA: 7.52/10
+- 🎓 B.Tech CSE Student at **SMIT, Sikkim** — Graduating 2028
 - 💼 Building scalable web apps & AI-powered solutions
-- ☕ Java-proficient with 200+ DSA problems solved on LeetCode & Codeforces
+- ☕ Java-proficient with 200+ DSA problems solved on LeetCode & Codeforce
 - 🌐 Portfolio: [mohit-tiwary2610.github.io](https://mohit-tiwary2610.github.io)
 - 📫 Reach me at: **mtiwary982@gmail.com**
 - 📍 Jamshedpur, Jharkhand, India
